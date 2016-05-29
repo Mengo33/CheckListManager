@@ -1,0 +1,113 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.1 (C:\Users\Menahem\AppData\Local\Programs\Python\Python35-32\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Users\Menahem\AppData\Local\Programs\Python\Python35-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/1190286981" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python interpreter" />
+      <type value="Python SDK" />
+      <version value="undefined" />
+      <homePath value="sftp://pi@10.0.0.10:22/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="eab5abc3-9663-4b91-9557-176415d8c0d0" WEB_SERVER_CONFIG_NAME="rpi-lan" HOST="10.0.0.10" PORT="22" ANONYMOUS="false" USERNAME="pi" PASSWORD="" PRIVATE_KEY_FILE="C:\Users\Menahem\PycharmProjects\meni.ppk" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="" INITIALIZED="false" VALID="false" SKELETONS_PATH="" VERSION="undefined" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at C:\Users\Menahem\Envs\myenv" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Users\Menahem\Envs\myenv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Envs/myenv/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Envs/myenv/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Envs/myenv" />
+            <root type="simple" url="file://$USER_HOME$/Envs/myenv/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-202583083" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at C:\Users\Menahem\Envs\udisenv" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Users\Menahem\Envs\udisenv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Envs/udisenv/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Envs/udisenv/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Envs/udisenv" />
+            <root type="simple" url="file://$USER_HOME$/Envs/udisenv/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/2073084514" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.1 virtualenv at C:\Users\Menahem\Envs\menienv" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.1" />
+      <homePath value="C:\Users\Menahem\Envs\menienv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Envs/menienv/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Envs/menienv/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Envs/menienv" />
+            <root type="simple" url="file://$USER_HOME$/Envs/menienv/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-150059972" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

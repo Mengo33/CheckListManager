@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eab5abc3-9663-4b91-9557-176415d8c0d0" name="rpi-lan" url="http://10.0.0.10">
+        <fileTransfer host="10.0.0.10" port="22" rootFolder="/home/pi/" accessType="SFTP" username="pi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
