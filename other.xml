@@ -1,4 +1,7 @@
 <application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
