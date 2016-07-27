@@ -8403,7 +8403,7 @@
         <entry key="SoundDrizzle" value="" />
         <entry key="SoundFile" value="" />
         <entry key="SourceBrowser" value="" />
-        <entry key="South" value="" />
+        <entry key="South" value="1.0.2" />
         <entry key="Soya" value="" />
         <entry key="Soya3" value="" />
         <entry key="Sp2Learning" value="" />
@@ -47320,7 +47320,7 @@
         <entry key="markdown-to-json" value="" />
         <entry key="markdown-tweetable" value="" />
         <entry key="markdown-viewer" value="" />
-        <entry key="markdown2" value="" />
+        <entry key="markdown2" value="1.0.1.11" />
         <entry key="markdown2Mathjax" value="" />
         <entry key="markdown2latex" value="" />
         <entry key="markdown2social" value="" />
@@ -55903,7 +55903,7 @@
         <entry key="pexcard" value="" />
         <entry key="pexdoc" value="" />
         <entry key="pexif" value="" />
-        <entry key="pexpect" value="" />
+        <entry key="pexpect" value="4.2.0" />
         <entry key="pexpect-nm" value="" />
         <entry key="pexpect-serial" value="" />
         <entry key="pexpect-u" value="" />
@@ -58640,7 +58640,7 @@
         <entry key="ptwit" value="" />
         <entry key="ptwitter" value="" />
         <entry key="ptypes" value="" />
-        <entry key="ptyprocess" value="" />
+        <entry key="ptyprocess" value="0.5.1" />
         <entry key="pu" value="" />
         <entry key="pu_in_content" value="" />
         <entry key="pu_in_core" value="" />
