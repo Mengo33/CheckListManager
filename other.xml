@@ -65,6 +65,7 @@
         <entry key="C:\Users\Menahem\Envs\gogo\Scripts\python.exe" value="false" />
         <entry key="C:\Users\Menahem\Envs\opencommunity\Scripts\python.exe" value="false" />
         <entry key="C:\Users\Menahem\Envs\speedateevent\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Menahem\Envs\speedateevents\Scripts\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
@@ -72,6 +73,7 @@
         <entry key="C:\Users\Menahem\Envs\gogo\Scripts\python.exe" value="false" />
         <entry key="C:\Users\Menahem\Envs\opencommunity\Scripts\python.exe" value="true" />
         <entry key="C:\Users\Menahem\Envs\speedateevent\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Menahem\Envs\speedateevents\Scripts\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
@@ -79,6 +81,7 @@
         <entry key="C:\Users\Menahem\Envs\gogo\Scripts\python.exe" value="false" />
         <entry key="C:\Users\Menahem\Envs\opencommunity\Scripts\python.exe" value="false" />
         <entry key="C:\Users\Menahem\Envs\speedateevent\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Menahem\Envs\speedateevents\Scripts\python.exe" value="false" />
       </map>
     </option>
   </component>
