@@ -7200,7 +7200,7 @@
         <entry key="Pyganim" value="" />
         <entry key="Pygbutton" value="" />
         <entry key="Pygcurse" value="" />
-        <entry key="Pygments" value="" />
+        <entry key="Pygments" value="2.1.3" />
         <entry key="Pygments-Delegate-Formatter" value="" />
         <entry key="Pygments-Inject-Filter" value="" />
         <entry key="Pygments-JSON-Formatter" value="" />
@@ -9558,7 +9558,7 @@
         <entry key="Whirlpool" value="" />
         <entry key="White-Noise" value="" />
         <entry key="WhoisClient" value="" />
-        <entry key="Whoosh" value="" />
+        <entry key="Whoosh" value="2.7.4" />
         <entry key="WhooshAlchemy" value="" />
         <entry key="WhooshAlchemy3" value="" />
         <entry key="WhooshDoc" value="" />
@@ -14385,7 +14385,7 @@
         <entry key="blaze" value="" />
         <entry key="blazer" value="" />
         <entry key="blazing" value="" />
-        <entry key="bleach" value="" />
+        <entry key="bleach" value="1.4.3" />
         <entry key="bleach-whitelist" value="" />
         <entry key="bleachfields" value="" />
         <entry key="bleep" value="" />
@@ -17452,7 +17452,7 @@
         <entry key="clicast" value="" />
         <entry key="cliche" value="" />
         <entry key="clicheck" value="" />
-        <entry key="click" value="" />
+        <entry key="click" value="6.6" />
         <entry key="click-config" value="" />
         <entry key="click-default-group" value="" />
         <entry key="click-didyoumean" value="" />
@@ -19442,7 +19442,7 @@
         <entry key="color_balance" value="" />
         <entry key="color_helpers" value="" />
         <entry key="color_transfer" value="" />
-        <entry key="colorama" value="" />
+        <entry key="colorama" value="0.3.7" />
         <entry key="colorbrewer" value="" />
         <entry key="colorcells" value="" />
         <entry key="colorclass" value="" />
@@ -24573,7 +24573,7 @@
         <entry key="django-debug-panel" value="" />
         <entry key="django-debug-queries" value="" />
         <entry key="django-debug-template" value="" />
-        <entry key="django-debug-toolbar" value="" />
+        <entry key="django-debug-toolbar" value="1.5" />
         <entry key="django-debug-toolbar-autoreload" value="" />
         <entry key="django-debug-toolbar-django-info" value="" />
         <entry key="django-debug-toolbar-django13" value="" />
@@ -25285,7 +25285,7 @@
         <entry key="django-flickrsets" value="" />
         <entry key="django-flipbook" value="" />
         <entry key="django-floppy-gumby" value="" />
-        <entry key="django-floppyforms" value="" />
+        <entry key="django-floppyforms" value="1.6.2" />
         <entry key="django-floppymaterial" value="" />
         <entry key="django-floppymodelforms" value="" />
         <entry key="django-flot" value="" />
@@ -25687,7 +25687,7 @@
         <entry key="django-hateconf" value="" />
         <entry key="django-hautomation" value="" />
         <entry key="django-haweb" value="" />
-        <entry key="django-haystack" value="" />
+        <entry key="django-haystack" value="2.5.0" />
         <entry key="django-haystack-panel" value="" />
         <entry key="django-haystack-solr-commands" value="" />
         <entry key="django-haystackbrowser" value="" />
@@ -26937,7 +26937,7 @@
         <entry key="django-nonrel-enuff" value="" />
         <entry key="django-nopassword" value="" />
         <entry key="django-normalized-filefield" value="" />
-        <entry key="django-nose" value="" />
+        <entry key="django-nose" value="1.4.4" />
         <entry key="django-nose-lint" value="" />
         <entry key="django-nose-qunit" value="" />
         <entry key="django-nose-selenium" value="" />
@@ -28029,7 +28029,7 @@
         <entry key="django-roxyfileman" value="" />
         <entry key="django-rpc" value="" />
         <entry key="django-rpy2" value="" />
-        <entry key="django-rq" value="" />
+        <entry key="django-rq" value="0.9.1" />
         <entry key="django-rq-dashboard" value="" />
         <entry key="django-rq-email-backend" value="" />
         <entry key="django-rq-jobs" value="" />
@@ -28941,7 +28941,7 @@
         <entry key="django-tagging-ext" value="" />
         <entry key="django-tagging-ng" value="" />
         <entry key="django-tagging-translated" value="" />
-        <entry key="django-taggit" value="" />
+        <entry key="django-taggit" value="0.20.2" />
         <entry key="django-taggit-autocomplete" value="" />
         <entry key="django-taggit-autocomplete-modified" value="" />
         <entry key="django-taggit-autosuggest" value="" />
@@ -40045,7 +40045,7 @@
         <entry key="html5charref" value="" />
         <entry key="html5ever" value="" />
         <entry key="html5forms" value="" />
-        <entry key="html5lib" value="" />
+        <entry key="html5lib" value="0.999999999" />
         <entry key="html5lib-truncation" value="" />
         <entry key="html5print" value="" />
         <entry key="html5tidy" value="" />
@@ -52336,7 +52336,7 @@
         <entry key="normpy" value="" />
         <entry key="nosango" value="" />
         <entry key="noscrapy" value="" />
-        <entry key="nose" value="" />
+        <entry key="nose" value="1.3.7" />
         <entry key="nose-alembic-attrib" value="" />
         <entry key="nose-alert" value="" />
         <entry key="nose-allure-plugin" value="" />
@@ -55261,7 +55261,7 @@
         <entry key="pathfix.py" value="" />
         <entry key="pathlib" value="" />
         <entry key="pathlib-zip" value="" />
-        <entry key="pathlib2" value="" />
+        <entry key="pathlib2" value="2.1.0" />
         <entry key="pathlib_revised" value="" />
         <entry key="pathlt" value="" />
         <entry key="pathminer" value="" />
@@ -58573,7 +58573,7 @@
         <entry key="psycopg" value="" />
         <entry key="psycopg-ct" value="" />
         <entry key="psycopg-postgis" value="" />
-        <entry key="psycopg2" value="" />
+        <entry key="psycopg2" value="2.6.2" />
         <entry key="psycopg2-ct" value="" />
         <entry key="psycopg2-dateutils" value="" />
         <entry key="psycopg2-managed-connection" value="" />
@@ -64697,7 +64697,7 @@
         <entry key="python-googleanalytics" value="" />
         <entry key="python-googlegeocoder" value="" />
         <entry key="python-graph" value="" />
-        <entry key="python-graph-core" value="" />
+        <entry key="python-graph-core" value="1.8.2" />
         <entry key="python-graph-dot" value="" />
         <entry key="python-graphite-dashgen" value="" />
         <entry key="python-great-expectations" value="" />
@@ -65846,7 +65846,7 @@
         <entry key="pytype" value="" />
         <entry key="pytypo" value="" />
         <entry key="pytyrant" value="" />
-        <entry key="pytz" value="" />
+        <entry key="pytz" value="2016.6.1" />
         <entry key="pytz-memcache" value="" />
         <entry key="pytzpure" value="" />
         <entry key="pyuarm" value="" />
@@ -67581,7 +67581,7 @@
         <entry key="redirect-streams" value="" />
         <entry key="redirectall" value="" />
         <entry key="redirector" value="" />
-        <entry key="redis" value="" />
+        <entry key="redis" value="2.10.5" />
         <entry key="redis-astra" value="" />
         <entry key="redis-cache" value="" />
         <entry key="redis-cirrus" value="" />
@@ -69272,7 +69272,7 @@
         <entry key="rpyc" value="" />
         <entry key="rpyc-op" value="" />
         <entry key="rpython" value="" />
-        <entry key="rq" value="" />
+        <entry key="rq" value="0.6.0" />
         <entry key="rq-cli" value="" />
         <entry key="rq-dash" value="" />
         <entry key="rq-dashboard" value="" />
@@ -70869,7 +70869,7 @@
         <entry key="selenate" value="" />
         <entry key="selene" value="" />
         <entry key="selenic" value="" />
-        <entry key="selenium" value="" />
+        <entry key="selenium" value="9429" />
         <entry key="selenium-chrome-screenshot" value="" />
         <entry key="selenium-configurator" value="" />
         <entry key="selenium-requests" value="" />
@@ -74178,7 +74178,7 @@
         <entry key="sqlnet" value="" />
         <entry key="sqlnosql" value="" />
         <entry key="sqlparams" value="" />
-        <entry key="sqlparse" value="" />
+        <entry key="sqlparse" value="0.2.0" />
         <entry key="sqlpharmacy" value="" />
         <entry key="sqlplus_commando" value="" />
         <entry key="sqlpuzzle" value="" />
@@ -81923,7 +81923,7 @@
         <entry key="wcsaxes" value="" />
         <entry key="wcurve" value="" />
         <entry key="wcut" value="" />
-        <entry key="wcwidth" value="" />
+        <entry key="wcwidth" value="0.1.7" />
         <entry key="wdapi" value="" />
         <entry key="wdb" value="" />
         <entry key="wdb-lite" value="" />
